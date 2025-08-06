@@ -1,0 +1,1 @@
+pytest --maxfail=1 --disable-warnings --cov=media_utils --cov-report=term-missing
